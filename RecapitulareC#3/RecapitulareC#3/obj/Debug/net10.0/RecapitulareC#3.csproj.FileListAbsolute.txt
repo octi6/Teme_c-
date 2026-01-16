@@ -1,0 +1,14 @@
+C:\Users\santa\source\repos\RecapitulareC#3\RecapitulareC#3\bin\Debug\net10.0\RecapitulareC#3.exe
+C:\Users\santa\source\repos\RecapitulareC#3\RecapitulareC#3\bin\Debug\net10.0\RecapitulareC#3.deps.json
+C:\Users\santa\source\repos\RecapitulareC#3\RecapitulareC#3\bin\Debug\net10.0\RecapitulareC#3.runtimeconfig.json
+C:\Users\santa\source\repos\RecapitulareC#3\RecapitulareC#3\bin\Debug\net10.0\RecapitulareC#3.dll
+C:\Users\santa\source\repos\RecapitulareC#3\RecapitulareC#3\bin\Debug\net10.0\RecapitulareC#3.pdb
+C:\Users\santa\source\repos\RecapitulareC#3\RecapitulareC#3\obj\Debug\net10.0\RecapitulareC#3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santa\source\repos\RecapitulareC#3\RecapitulareC#3\obj\Debug\net10.0\RecapitulareC#3.AssemblyInfoInputs.cache
+C:\Users\santa\source\repos\RecapitulareC#3\RecapitulareC#3\obj\Debug\net10.0\RecapitulareC#3.AssemblyInfo.cs
+C:\Users\santa\source\repos\RecapitulareC#3\RecapitulareC#3\obj\Debug\net10.0\RecapitulareC#3.csproj.CoreCompileInputs.cache
+C:\Users\santa\source\repos\RecapitulareC#3\RecapitulareC#3\obj\Debug\net10.0\RecapitulareC#3.dll
+C:\Users\santa\source\repos\RecapitulareC#3\RecapitulareC#3\obj\Debug\net10.0\refint\RecapitulareC#3.dll
+C:\Users\santa\source\repos\RecapitulareC#3\RecapitulareC#3\obj\Debug\net10.0\RecapitulareC#3.pdb
+C:\Users\santa\source\repos\RecapitulareC#3\RecapitulareC#3\obj\Debug\net10.0\RecapitulareC#3.genruntimeconfig.cache
+C:\Users\santa\source\repos\RecapitulareC#3\RecapitulareC#3\obj\Debug\net10.0\ref\RecapitulareC#3.dll
